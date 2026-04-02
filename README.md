@@ -4,12 +4,12 @@
 
 <br>
 
-* [cite_start]🎓 B.Tech Computer Science & Engineering undergraduate at Ajay Kumar Garg Engineering College (AKGEC)[cite: 9, 10].
-* [cite_start]🚀 I build scalable web applications, specializing in RESTful APIs and server-side architecture[cite: 5, 47].
-* [cite_start]💻 Tech I work with: **Node.js, Express.js, React.js, JavaScript, C++, Python**[cite: 13, 14].
-* [cite_start]🌐 Active technical member of Google Developer Groups (GDG) and Cloud Computing Cell (CCC)[cite: 38, 41].
-* [cite_start]🏆 Consistent problem solver with a strong foundation in Data Structures and Algorithms[cite: 6].
-* [cite_start]📫 Reach me at: **lovevarshney7002@gmail.com** [cite: 3]
+* 🎓 B.Tech Computer Science & Engineering undergraduate at Ajay Kumar Garg Engineering College (AKGEC).
+* 🚀 I build scalable web applications, specializing in RESTful APIs and server-side architecture.
+* 💻 Tech I work with: **Node.js, Express.js, React.js, JavaScript, C++, Python**.
+* 🌐 Active technical member of Google Developer Groups (GDG) and Cloud Computing Cell (CCC).
+* 🏆 Consistent problem solver with a strong foundation in Data Structures and Algorithms.
+* 📫 Reach me at: **lovevarshney7002@gmail.com**
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### 💻 What I've Been Building:
 
-* [cite_start]**Image Processing Application:** An AI-powered web platform for fast photo transformations like background removal and format conversion[cite: 29, 33]. [cite_start]Built robust backend APIs for structured handling of image uploads and real-time processing[cite: 34, 36].
+* **Image Processing Application:** An AI-powered web platform for fast photo transformations like background removal and format conversion.
 * **StudyNotion:** A comprehensive web development project integrating modern frontend and backend technologies.
 * **FireWatch:** An innovative application utilizing QR codes and WebRTC for live video streaming.
 * **Web Interfaces:** Developed responsive, user-friendly websites like *FoodieHub* and *SHOWBOX*.
