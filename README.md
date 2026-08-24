@@ -1,73 +1,65 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20There,%20I'm%20Love%20Varshney%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;Backend+%26+API+Specialist+%E2%9A%99%EF%B8%8F;300%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+Real+World%2C+Scalable+Apps;Open+to+MERN+Stack+Internships" alt="Typing SVG" /> </a> <br/>
+### Love Varshney
 
-Show Image Show Image Show Image Show Image
+Full stack developer working mainly in the MERN stack, currently finishing a B.Tech in CSE at AKGEC (AKTU) with a 9.09 CGPA. I like building things that real people actually use — right now that's a couple of apps running in production for 200+ users with zero downtime. Also 300+ problems solved on LeetCode.
 
-<img src="https://komarev.com/ghpvc/?username=lovevarshney2007&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/> </div> <br/>
-👨‍💻 About Me
-yaml
-name: Love Varshney
-role: Full Stack Developer (MERN)
-education: B.Tech CSE @ AKGEC (AKTU) — CGPA: 9.09
-focus: Building scalable, real-world web applications
-current_stats:
-  leetcode_solved: "328+ (300+ milestone crossed 🎉)"
-  leetcode_rank: "433,286 (India)"
-  max_streak: "108 days"
-  badge: "100 Days Badge 2026 🏅"
-impact: "Shipped production apps serving 200+ real users with zero downtime"
-skills_focus: [JWT/OAuth 2.0, RBAC, WebSockets, Razorpay, Docker, System Design]
-communities: [GDG @ AKGEC, Cloud Computing Cell (CCC) @ AKGEC]
-status: "📫 Open to MERN Stack Internships"
+📫 Open to MERN stack internships — reach me at **lovevarshney7002@gmail.com**
+
+<p>
+<a href="https://linkedin.com/in/love-varshney7002"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=4ECDC4" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/lovevarshey/"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=flat-square&logo=leetcode&logoColor=FF6B35" alt="LeetCode"/></a>
+<a href="mailto:lovevarshney7002@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=flat-square&logo=gmail&logoColor=4ECDC4" alt="Email"/></a>
+<a href="https://github.com/lovevarshney2007"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=FF6B35" alt="GitHub"/></a>
+</p>
+
+---
+
+#### Stack I work in
+
+**Frontend** — React · Next.js · Redux Toolkit · TypeScript · Tailwind CSS
+**Backend** — Node.js · Express · JWT / OAuth 2.0 · RBAC · WebSockets · Razorpay
+**Data** — MongoDB · PostgreSQL · MySQL
+**Tooling** — Docker · Git · Vercel · Postman · Linux
+
+<p>
+<img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=4ECDC4"/>
+<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/Redux-1a1a2e?style=flat-square&logo=redux&logoColor=4ECDC4"/>
+<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=4ECDC4"/>
 <br/>
-🚀 Tech Stack
-<div align="center">
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,typescript,tailwind,html,css&theme=dark" />
-
-Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /> ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=js,cpp,py,c&theme=dark" />
-
-DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,linux,vscode&theme=dark" /> </div> <br/>
-📈 GitHub Analytics
-<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lovevarshney2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovevarshney2007&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lovevarshney2007&theme=tokyonight&hide_border=true&border_radius=10" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=lovevarshney2007&theme=tokyo-night&hide_border=true&area=true" width="98%"/> </div> <br/>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lovevarshney2007&theme=tokyonight&no-frame=true&row=1&column=7" /> </div> <br/>
-🧠 LeetCode Stats
-<div align="center"> <img src="https://leetcard.jacoblin.cool/lovevarshey?theme=dark&font=Fira%20Code&ext=heatmap" width="60%"/> </div> <div align="center">
-🎯 Solved	🟢 Easy	🟡 Medium	🔴 Hard	🔥 Max Streak	🏅 Badges
-328 / 4033	117 / 961	178 / 2105	33 / 967	108 Days	4
-</div> <br/>
-🛠️ Featured Projects
-
-Add your top 2–4 projects here — repo name, one-line pitch, live link, and tech badges. Example format below:
-
-<div align="center">
-Project	Description	Tech Stack	Links
-Project Name	One-line description of what it does and the problem it solves	Show Image Show Image	🔗 Live · 💻 Code
-Project Name	One-line description of what it does and the problem it solves	Show Image Show Image	🔗 Live · 💻 Code
-</div> <br/>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/lovevarshney2007/lovevarshney2007/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
-
-This animates automatically once the snake-animation GitHub Action is set up on your profile repo.
-
+<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=4ECDC4"/>
+<img src="https://img.shields.io/badge/Express-1a1a2e?style=flat-square&logo=express&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/JWT-1a1a2e?style=flat-square&logo=jsonwebtokens&logoColor=4ECDC4"/>
+<img src="https://img.shields.io/badge/Socket.io-1a1a2e?style=flat-square&logo=socketdotio&logoColor=FF6B35"/>
 <br/>
-🤝 Connect With Me
-<div align="center">
+<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=4ECDC4"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4ECDC4"/>
+<img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=FF6B35"/>
+<img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=4ECDC4"/>
+</p>
 
-Show Image Show Image Show Image Show Image
+---
 
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/> </div>
+#### GitHub activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=lovevarshney2007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=FF6B35&icon_color=4ECDC4&text_color=c9c9d9" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovevarshney2007&layout=compact&langs_count=6&hide_border=true&bg_color=1a1a2e&title_color=FF6B35&text_color=c9c9d9" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lovevarshney2007&hide_border=true&background=1a1a2e&ring=FF6B35&fire=FF6B35&currStreakLabel=4ECDC4&sideLabels=c9c9d9&currStreakNum=c9c9d9&sideNums=c9c9d9&dates=6a6a80"/>
+
+---
+
+#### A couple of things I've built
+
+*(swap these in for your actual pinned repos)*
+
+- **CCC_Day1** — task from my time with the Cloud Computing Cell at AKGEC
+- **GDG_1st_task-FoodieHub** — a food-ordering UI built as part of a GDG AKGEC task
+
+---
+
+#### Communities
+
+Member of **GDG (Google Developer Groups)** and the **Cloud Computing Cell (CCC)** at AKGEC — usually building something or debugging something during the week, competing on LeetCode most weekends.
+
+<sub>India · lovevarshney7002@gmail.com</sub>
